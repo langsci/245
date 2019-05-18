@@ -1,3 +1,19 @@
-\setlength{\plitemsep}{.2cm}
-\setlength{\emergencystretch}{.5cm}
-\tolerance=10000
+% \setlength{\plitemsep}{.2cm}
+% \setlength{\emergencystretch}{.5cm}
+% \tolerance=10000
+
+
+\newenvironment{letter}[1]{\phantomsection  %
+\addcontentsline{toc}{chapter}{#1}%
+\begin{multicols}{2}[%
+% \addvspace{1.5\baselineskip}%
+\scalebox{1.5}{\bfseries\Huge #1}%
+% \hline
+% \addvspace{.1\baselineskip}
+% \hline
+% \addvspace{1\baselineskip}
+]%
+}%
+{%
+\end{multicols}%
+}
