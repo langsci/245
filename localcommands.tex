@@ -1,10 +1,23 @@
-% \setlength{\plitemsep}{.2cm}
-% \setlength{\emergencystretch}{.5cm}
-% \tolerance=10000
+\newcommand{\headword}[1]{{\bfseries #1}\markboth{#1}{#1}}
+\newcommand{\newentry}{\par\smallskip\hangindent=6pt}
+\renewcommand\tbLX[1]{\newentry\stepcounter{lx}\headword{#1}}
+
+
+% \newcommand\tbLX[1] {\stepcounter{lx}  \item[\textbf{#1}]  	\setcounter{denum}{0} \setcounter{sense}{0} \setcounter{hm}{0} \setcounter{dnnum}{0}	}
+
+
+\lohead{}
+\rohead{}
+\ohead{}
+\ihead{}
+\chead{\rightmark\hfill\leftmark}
+
+
+
 
 
 \newenvironment{letter}[1]{\phantomsection  %
-\addcontentsline{toc}{chapter}{#1}%
+\addcontentsline{toc}{section}{#1}%
 \begin{multicols}{2}[%
 \addvspace{1.5\baselineskip}%
 \scalebox{1.5}{\bfseries\Huge #1}%
@@ -26,7 +39,7 @@
 %\newcommand{\IMP}{\textsc{imp}}
 %\newcommand{\CAUS}{\textsc{caus}}
 \newcommand{\CONJ}{\textsc{conj}}
-%\newcommand{\PRF}{\textsc{prf}}
+\newcommand{\PRV}{\textsc{prv}}
 \newcommand{\STR}{\textsc{str}}
 \newcommand{\INTENS}{\textsc{intens}}
 \newcommand{\PRON}{\textsc{pron}}
@@ -35,3 +48,11 @@
 \newcommand{\NONHUMAN}{\textsc{nonhuman}}
 \newcommand{\ASSERT}{\textsc{assert}}
 %\newcommand{\RECP}{\textsc{recp}} 
+\newcommand{\IMPV}{\textsc{impv}}
+\newcommand{\IMPF}{\textsc{impf}}
+\newcommand{\INT}{\textsc{intr}}
+\newcommand{\POSTP}{\textsc{postp}}
+
+% \usepackage{chngcntr} %Overleaf has problems with this
+\counterwithout{table}{chapter}
+\counterwithout{figure}{chapter}

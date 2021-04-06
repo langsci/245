@@ -1,5 +1,8 @@
-\documentclass[output=book,modfonts,nonflat 
-		  ]{langsci/langscibook}    
+    \documentclass[output=book,
+% colorlinks, citecolor=brown,
+uniformtopskip=false,
+% draft, draftmode
+]{langscibook}
   
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%          additional packages                 %%%
@@ -14,20 +17,22 @@
 %%%             Frontmatter                      %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 
-% \setmainfont{Charis SIL}
 
 \WarningFilter{microtype}{Unknown}
+
+% \includeonly{chapters/sketchgrammar}
 \begin{document}     
 
 \input{localcommands.tex} 
 
-\maketitle                
+\maketitle
 \frontmatter
 
 \currentpdfbookmark{Contents}{name} % adds a PDF bookmark
 \tableofcontents
  \include{chapters/preface}
  \include{chapters/acknowledgments}
+ \include{chapters/authorscontributions} 
  \include{chapters/spelling} 
  \include{chapters/abbreviations} 
 
@@ -37,13 +42,52 @@
 %%%             Chapters                         %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  
-\part{Foreword and grammar sketch}
+ \phantomsection
+\addcontentsline{toc}{part}{Grammatical sketch of Dagaare}
+\part*{Grammatical sketch of Dagaare\\ \bigskip  \LARGE by Adams Bodomo}
+\phantomsection
+ \include{chapters/sketchgrammar}
+ \phantomsection
 
-\include{chapters/sketchgrammar} 
-\part{Dagaare-English dictionary}
-\include{texConvertFinal}
+\newcommand{\headrulewidth}{0pt}
+\setlength{\columnsep}{3em}
+\setlength{\parindent}{0pt}
+
+\part*{Dagaare dictionary\\ \bigskip  \LARGE by Mark Ali and Scott Grimm}
+\phantomsection
+\addcontentsline{toc}{part}{Dagaare dictionary}
+\input{chapters/a.tex}
+\input{chapters/b.tex}
+\input{chapters/d.tex}
+\input{chapters/e.tex}
+\input{chapters/E.tex}
+\input{chapters/f.tex}
+\input{chapters/g.tex}
+\input{chapters/gb.tex}
+\input{ chapters/gy.tex}
+\input{chapters/h.tex}
+\input{chapters/i.tex}
+\input{chapters/k.tex}
+\input{chapters/kp.tex}
+\input{chapters/l.tex}
+\input{chapters/m.tex}
+\input{chapters/n.tex}
+\input{chapters/ny.tex}
+\input{chapters/ng.tex}
+\input{chapters/ngm.tex}
+\input{chapters/o.tex}
+\input{chapters/O.tex}
+\input{chapters/p.tex}
+\input{chapters/s.tex}
+\input{chapters/t.tex}
+\input{chapters/u.tex}
+\input{chapters/v.tex}
+\input{chapters/w.tex}
+\input{chapters/y.tex}
+\input{chapters/z.tex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%             Backmatter                       %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% no backmatter
 \end{document} 

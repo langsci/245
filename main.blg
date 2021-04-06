@@ -1,0 +1,42 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[0] Config.pm:315> INFO - Logfile is 'main.blg'
+[64] biber:330> INFO - === Wed Mar  3, 2021, 17:28:49
+[76] Biber.pm:415> INFO - Reading 'main.bcf'
+[148] Biber.pm:952> INFO - Found 1 citekeys in bib section 0
+[148] Biber.pm:952> INFO - Found 11 citekeys in bib section 1
+[148] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[149] Biber.pm:952> INFO - Found 1 citekeys in bib section 2
+[149] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[149] Biber.pm:952> INFO - Found 1 citekeys in bib section 3
+[149] Biber.pm:952> INFO - Found 22 citekeys in bib section 0
+[175] Biber.pm:4334> INFO - Processing section 0
+[184] Biber.pm:4523> INFO - Looking for bibtex format file 'localbibliography.bib' for section 0
+[185] bibtex.pm:1682> INFO - LaTeX decoding ...
+[213] bibtex.pm:1494> INFO - Found BibTeX data source 'localbibliography.bib'
+[301] Biber.pm:4523> INFO - Looking for bibtex format file 'langscitmp.bib' for section 0
+[301] bibtex.pm:1682> INFO - LaTeX decoding ...
+[303] bibtex.pm:1494> INFO - Found BibTeX data source 'langscitmp.bib'
+[336] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[337] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[337] Biber.pm:4162> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[337] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[355] Biber.pm:4334> INFO - Processing section 1
+[355] Biber.pm:4523> INFO - Looking for bibtex format file 'localbibliography.bib' for section 1
+[413] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[413] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[413] Biber.pm:4162> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[413] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[420] Biber.pm:4334> INFO - Processing section 2
+[421] Biber.pm:4523> INFO - Looking for bibtex format file 'localbibliography.bib' for section 2
+[431] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[431] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[431] Biber.pm:4162> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[432] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[433] Biber.pm:4334> INFO - Processing section 3
+[433] Biber.pm:4523> INFO - Looking for bibtex format file 'localbibliography.bib' for section 3
+[451] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[451] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[451] Biber.pm:4162> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[452] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[454] bbl.pm:651> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[475] bbl.pm:754> INFO - Output to main.bbl

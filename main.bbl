@@ -1,0 +1,1191 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{langsci-current-book}{book}{skipbib=true,skipbiblist=true,skiplab=true}
+      \name{author}{3}{}{%
+        {{hash=d6d616f3cd44168b68aaf4d1b8b3bb38}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1c9a05c40f20231d3df2fa5fbf215935}{%
+           family={Grimm},
+           familyi={G\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=96b30188f6bb64f31956819252680132}{%
+           family={Bodomo},
+           familyi={B\bibinitperiod},
+           given={Adams},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{dd442fcaec62d034b87462a9faf8ac3c}
+      \strng{fullhash}{c893d0131ba49a9daa5ca489447d931b}
+      \strng{bibnamehash}{c893d0131ba49a9daa5ca489447d931b}
+      \strng{authorbibnamehash}{c893d0131ba49a9daa5ca489447d931b}
+      \strng{authornamehash}{dd442fcaec62d034b87462a9faf8ac3c}
+      \strng{authorfullhash}{c893d0131ba49a9daa5ca489447d931b}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{4}
+      \field{series}{African Language Grammars and Dictionaries}
+      \field{title}{{A dictionary and grammatical sketch of {Dagaare}}}
+      \field{year}{2021}
+    \endentry
+    \entry{AnttilaBodomo1996}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=a57d7aa7f0219bed8e900ad627aeaaeb}{%
+           family={Anttila},
+           familyi={A\bibinitperiod},
+           given={Arto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=96b30188f6bb64f31956819252680132}{%
+           family={Bodomo},
+           familyi={B\bibinitperiod},
+           given={Adams},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{88b9ffb90d245ca8e1e3c7c943fd4738}
+      \strng{fullhash}{88b9ffb90d245ca8e1e3c7c943fd4738}
+      \strng{bibnamehash}{88b9ffb90d245ca8e1e3c7c943fd4738}
+      \strng{authorbibnamehash}{88b9ffb90d245ca8e1e3c7c943fd4738}
+      \strng{authornamehash}{88b9ffb90d245ca8e1e3c7c943fd4738}
+      \strng{authorfullhash}{88b9ffb90d245ca8e1e3c7c943fd4738}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Rutgers Optimal Archive (ROA)}
+      \field{title}{Stress and tone in {D}agaare}
+      \field{year}{1996}
+    \endentry
+    \entry{Bendor-Samuel1971}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=9480089f6e8ee7f6a7b01d24614e3b25}{%
+           family={Bendor-Samuel},
+           familyi={B\bibinithyphendelim S\bibinitperiod},
+           given={John\bibnamedelima Theodor},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=ed7c4db62997270d5028f8592f2bdeac}{%
+           family={Sebeok},
+           familyi={S\bibinitperiod},
+           given={T.\bibnamedelimi A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {The Hague}%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Mouton \& Co.}%
+      }
+      \strng{namehash}{9480089f6e8ee7f6a7b01d24614e3b25}
+      \strng{fullhash}{9480089f6e8ee7f6a7b01d24614e3b25}
+      \strng{bibnamehash}{9480089f6e8ee7f6a7b01d24614e3b25}
+      \strng{authorbibnamehash}{9480089f6e8ee7f6a7b01d24614e3b25}
+      \strng{authornamehash}{9480089f6e8ee7f6a7b01d24614e3b25}
+      \strng{authorfullhash}{9480089f6e8ee7f6a7b01d24614e3b25}
+      \strng{editorbibnamehash}{ed7c4db62997270d5028f8592f2bdeac}
+      \strng{editornamehash}{ed7c4db62997270d5028f8592f2bdeac}
+      \strng{editorfullhash}{ed7c4db62997270d5028f8592f2bdeac}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Current trends in linguistics, 7: Linguistics in sub-{S}aharan {A}frica}}
+      \field{title}{{Niger-Kongo, Gur}}
+      \field{year}{1971}
+      \field{pages}{141\bibrangedash 178}
+      \range{pages}{38}
+    \endentry
+    \entry{Bodomo1993}{book}{}
+      \name{author}{1}{}{%
+        {{hash=96b30188f6bb64f31956819252680132}{%
+           family={Bodomo},
+           familyi={B\bibinitperiod},
+           given={Adams},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Trondheim}%
+      }
+      \list{publisher}{2}{%
+        {Norwegian Univ. of Science}%
+        {Technology (NTNU)}%
+      }
+      \strng{namehash}{96b30188f6bb64f31956819252680132}
+      \strng{fullhash}{96b30188f6bb64f31956819252680132}
+      \strng{bibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorbibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authornamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorfullhash}{96b30188f6bb64f31956819252680132}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{20}
+      \field{series}{Univ. of Trondheim working papers in linguistics}
+      \field{title}{Complex predicates and event structure: an integrated analysis of serial verb constructions in the {M}abia languages of {W}est {A}frica}
+      \field{year}{1993}
+    \endentry
+    \entry{Bodomo1997Pathfinders}{book}{}
+      \name{author}{1}{}{%
+        {{hash=96b30188f6bb64f31956819252680132}{%
+           family={Bodomo},
+           familyi={B\bibinitperiod},
+           given={Adams},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Trondheim}%
+      }
+      \list{publisher}{2}{%
+        {Norwegian University of Science}%
+        {Technology (NTNU)}%
+      }
+      \strng{namehash}{96b30188f6bb64f31956819252680132}
+      \strng{fullhash}{96b30188f6bb64f31956819252680132}
+      \strng{bibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorbibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authornamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorfullhash}{96b30188f6bb64f31956819252680132}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Paths and pathfinders: {E}xploring the syntax and semantics of complex verbal predicates in {D}agaare and other languages}
+      \field{year}{1997}
+    \endentry
+    \entry{Bodomo1997}{book}{}
+      \name{author}{1}{}{%
+        {{hash=96b30188f6bb64f31956819252680132}{%
+           family={Bodomo},
+           familyi={B\bibinitperiod},
+           given={Adams},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stanford}%
+      }
+      \list{publisher}{1}{%
+        {CSLI}%
+      }
+      \strng{namehash}{96b30188f6bb64f31956819252680132}
+      \strng{fullhash}{96b30188f6bb64f31956819252680132}
+      \strng{bibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorbibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authornamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorfullhash}{96b30188f6bb64f31956819252680132}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Structure of {D}agaare}
+      \field{year}{1997}
+    \endentry
+    \entry{Bodomo2000}{book}{}
+      \name{author}{1}{}{%
+        {{hash=96b30188f6bb64f31956819252680132}{%
+           family={Bodomo},
+           familyi={B\bibinitperiod},
+           given={Adams},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {München, Germany}%
+      }
+      \list{publisher}{1}{%
+        {Lincom Europa}%
+      }
+      \strng{namehash}{96b30188f6bb64f31956819252680132}
+      \strng{fullhash}{96b30188f6bb64f31956819252680132}
+      \strng{bibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorbibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authornamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorfullhash}{96b30188f6bb64f31956819252680132}
+      \field{extraname}{4}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Languages of the World Materials No.~165}
+      \field{title}{Dagaare}
+      \field{year}{2000}
+    \endentry
+    \entry{Bodomo2004cantonese}{book}{}
+      \name{author}{1}{}{%
+        {{hash=96b30188f6bb64f31956819252680132}{%
+           family={Bodomo},
+           familyi={B\bibinitperiod},
+           given={Adams},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cologne, Germany}%
+      }
+      \list{publisher}{1}{%
+        {Rudiger Köppe Verlag}%
+      }
+      \strng{namehash}{96b30188f6bb64f31956819252680132}
+      \strng{fullhash}{96b30188f6bb64f31956819252680132}
+      \strng{bibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorbibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authornamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorfullhash}{96b30188f6bb64f31956819252680132}
+      \field{extraname}{5}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A {D}agaare-{C}antonese-{E}nglish Lexicon for Lexicographical Field Research Training}
+      \field{year}{2004}
+    \endentry
+    \entry{Bodomo2004complex}{article}{}
+      \name{author}{1}{}{%
+        {{hash=96b30188f6bb64f31956819252680132}{%
+           family={Bodomo},
+           familyi={B\bibinitperiod},
+           given={Adams},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{96b30188f6bb64f31956819252680132}
+      \strng{fullhash}{96b30188f6bb64f31956819252680132}
+      \strng{bibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorbibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authornamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorfullhash}{96b30188f6bb64f31956819252680132}
+      \field{extraname}{6}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studia linguistica}
+      \field{number}{1}
+      \field{title}{The syntax of nominalized complex verbal predicates in {D}agaare}
+      \field{volume}{58}
+      \field{year}{2004}
+      \field{pages}{1\bibrangedash 22}
+      \range{pages}{22}
+    \endentry
+    \entry{Cahill1999}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=ffb4a70224f4d0f590379ac28ad5369d}{%
+           family={Cahill},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Ohio State University}%
+      }
+      \list{location}{1}{%
+        {Ann Abor}%
+      }
+      \list{publisher}{1}{%
+        {UMI}%
+      }
+      \strng{namehash}{ffb4a70224f4d0f590379ac28ad5369d}
+      \strng{fullhash}{ffb4a70224f4d0f590379ac28ad5369d}
+      \strng{bibnamehash}{ffb4a70224f4d0f590379ac28ad5369d}
+      \strng{authorbibnamehash}{ffb4a70224f4d0f590379ac28ad5369d}
+      \strng{authornamehash}{ffb4a70224f4d0f590379ac28ad5369d}
+      \strng{authorfullhash}{ffb4a70224f4d0f590379ac28ad5369d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aspects of the Morphology and Phonology of {K}ɔnni}
+      \field{type}{phdthesis}
+      \field{year}{1999}
+    \endentry
+    \entry{DagaareLanguageCommission1982}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e4eaa4d24de34ae5a707c82362b21bf2}{%
+           family={{Dagaare Language Committee}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wa, Ghana}%
+      }
+      \list{publisher}{1}{%
+        {Catholic Press}%
+      }
+      \strng{namehash}{e4eaa4d24de34ae5a707c82362b21bf2}
+      \strng{fullhash}{e4eaa4d24de34ae5a707c82362b21bf2}
+      \strng{bibnamehash}{e4eaa4d24de34ae5a707c82362b21bf2}
+      \strng{authorbibnamehash}{e4eaa4d24de34ae5a707c82362b21bf2}
+      \strng{authornamehash}{e4eaa4d24de34ae5a707c82362b21bf2}
+      \strng{authorfullhash}{e4eaa4d24de34ae5a707c82362b21bf2}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Guide to {D}agaare Spelling}
+      \field{year}{1982}
+    \endentry
+    \entry{Durand1953}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1a5929471f3a2936502e876baadae368}{%
+           family={Durand},
+           familyi={D\bibinitperiod},
+           given={Rev.\bibnamedelimi J.B.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Catholic Mission Duplicator}%
+      }
+      \strng{namehash}{1a5929471f3a2936502e876baadae368}
+      \strng{fullhash}{1a5929471f3a2936502e876baadae368}
+      \strng{bibnamehash}{1a5929471f3a2936502e876baadae368}
+      \strng{authorbibnamehash}{1a5929471f3a2936502e876baadae368}
+      \strng{authornamehash}{1a5929471f3a2936502e876baadae368}
+      \strng{authorfullhash}{1a5929471f3a2936502e876baadae368}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Dagaare-{E}nglish Dictionary}
+      \field{year}{1953}
+    \endentry
+    \entry{Hyman1993}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=6286e414e6bd90d0be4c25425b1d9c77}{%
+           family={Hyman},
+           familyi={H\bibinitperiod},
+           given={Larry\bibnamedelima Michael},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=c6034a5763b01d81568ab3c73afb369c}{%
+           family={Hargus},
+           familyi={H\bibinitperiod},
+           given={Sharon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=75ee64e622aa3e6f1227ba3b95a97fc4}{%
+           family={Kaisse},
+           familyi={K\bibinitperiod},
+           given={Ellen},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{6286e414e6bd90d0be4c25425b1d9c77}
+      \strng{fullhash}{6286e414e6bd90d0be4c25425b1d9c77}
+      \strng{bibnamehash}{6286e414e6bd90d0be4c25425b1d9c77}
+      \strng{authorbibnamehash}{6286e414e6bd90d0be4c25425b1d9c77}
+      \strng{authornamehash}{6286e414e6bd90d0be4c25425b1d9c77}
+      \strng{authorfullhash}{6286e414e6bd90d0be4c25425b1d9c77}
+      \strng{editorbibnamehash}{4b36d9f2fa8fd34949611ccb91c32ca0}
+      \strng{editornamehash}{4b36d9f2fa8fd34949611ccb91c32ca0}
+      \strng{editorfullhash}{4b36d9f2fa8fd34949611ccb91c32ca0}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Studies in lexical phonology}
+      \field{number}{4}
+      \field{series}{Phonetics and phonology}
+      \field{title}{Structure preservation and postlexical tonology in {D}agbani}
+      \field{year}{1993}
+      \field{pages}{235\bibrangedash 254}
+      \range{pages}{20}
+    \endentry
+    \entry{Kennedy1966}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a3a030336ba0a48e06c934f6c44a5988}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {University of Ghana, Accra}%
+      }
+      \list{publisher}{1}{%
+        {Institute of African Studies}%
+      }
+      \strng{namehash}{a3a030336ba0a48e06c934f6c44a5988}
+      \strng{fullhash}{a3a030336ba0a48e06c934f6c44a5988}
+      \strng{bibnamehash}{a3a030336ba0a48e06c934f6c44a5988}
+      \strng{authorbibnamehash}{a3a030336ba0a48e06c934f6c44a5988}
+      \strng{authornamehash}{a3a030336ba0a48e06c934f6c44a5988}
+      \strng{authorfullhash}{a3a030336ba0a48e06c934f6c44a5988}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Collected Language Notes 6}
+      \field{title}{Collected Field Reports on the Phonology of {D}agaari}
+      \field{year}{1966}
+    \endentry
+    \entry{Siew-Yue1993}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3f239c3404081b44399f39871c24fd8b}{%
+           family={Killingley},
+           familyi={K\bibinitperiod},
+           given={Siew-Yue},
+           giveni={S\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {München}%
+      }
+      \list{publisher}{1}{%
+        {Lincom}%
+      }
+      \strng{namehash}{3f239c3404081b44399f39871c24fd8b}
+      \strng{fullhash}{3f239c3404081b44399f39871c24fd8b}
+      \strng{bibnamehash}{3f239c3404081b44399f39871c24fd8b}
+      \strng{authorbibnamehash}{3f239c3404081b44399f39871c24fd8b}
+      \strng{authornamehash}{3f239c3404081b44399f39871c24fd8b}
+      \strng{authorfullhash}{3f239c3404081b44399f39871c24fd8b}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{6}
+      \field{series}{Languages of the World/Materials}
+      \field{title}{Cantonese}
+      \field{year}{1993}
+      \field{pages}{ii+50}
+      \range{pages}{-1}
+    \endentry
+    \entry{Dakubu2005}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b82549f45e5c76f12d71ac1a6e1481e3}{%
+           family={{Kropp Dakubu}},
+           familyi={K\bibinitperiod},
+           given={Mary\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Legon, Ghana}%
+      }
+      \list{publisher}{1}{%
+        {Institute of Language Studies}%
+      }
+      \strng{namehash}{b82549f45e5c76f12d71ac1a6e1481e3}
+      \strng{fullhash}{b82549f45e5c76f12d71ac1a6e1481e3}
+      \strng{bibnamehash}{b82549f45e5c76f12d71ac1a6e1481e3}
+      \strng{authorbibnamehash}{b82549f45e5c76f12d71ac1a6e1481e3}
+      \strng{authornamehash}{b82549f45e5c76f12d71ac1a6e1481e3}
+      \strng{authorfullhash}{b82549f45e5c76f12d71ac1a6e1481e3}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Collected Language Notes, Vol.\ 26}
+      \field{title}{Collected Language Notes on {D}agaare Grammar}
+      \field{year}{2005}
+    \endentry
+    \entry{Dakubu1998}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=b82549f45e5c76f12d71ac1a6e1481e3}{%
+           family={{Kropp Dakubu}},
+           familyi={K\bibinitperiod},
+           given={Mary\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=2e0616e6d202df487c38bb7b1f364c4d}{%
+           family={Saanchi},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {University of Ghana}%
+      }
+      \strng{namehash}{9dcf4c75fe6d425586a32440b6a7542c}
+      \strng{fullhash}{9dcf4c75fe6d425586a32440b6a7542c}
+      \strng{bibnamehash}{9dcf4c75fe6d425586a32440b6a7542c}
+      \strng{authorbibnamehash}{9dcf4c75fe6d425586a32440b6a7542c}
+      \strng{authornamehash}{9dcf4c75fe6d425586a32440b6a7542c}
+      \strng{authorfullhash}{9dcf4c75fe6d425586a32440b6a7542c}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ms.}
+      \field{title}{Constituent Focus in {D}agaare}
+      \field{year}{1998}
+    \endentry
+    \entry{Mieheetal2007}{book}{}
+      \name{author}{2}{}{%
+        {{hash=fea5559c1a1e102e74e234a2289cfbb8}{%
+           family={Miehe},
+           familyi={M\bibinitperiod},
+           given={Gudrun},
+           giveni={G\bibinitperiod}}}%
+        {{hash=3fd2c77e56a7e61658848188ab163448}{%
+           family={Winkelmann},
+           familyi={W\bibinitperiod},
+           given={Kerstin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=fea5559c1a1e102e74e234a2289cfbb8}{%
+           family={Miehe},
+           familyi={M\bibinitperiod},
+           given={Gudrun},
+           giveni={G\bibinitperiod}}}%
+        {{hash=3fd2c77e56a7e61658848188ab163448}{%
+           family={Winkelmann},
+           familyi={W\bibinitperiod},
+           given={Kerstin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Köln}%
+      }
+      \list{publisher}{1}{%
+        {Rüdiger Köppe}%
+      }
+      \strng{namehash}{78a708cc184c28c9efa04597c2ee91a0}
+      \strng{fullhash}{78a708cc184c28c9efa04597c2ee91a0}
+      \strng{bibnamehash}{78a708cc184c28c9efa04597c2ee91a0}
+      \strng{authorbibnamehash}{78a708cc184c28c9efa04597c2ee91a0}
+      \strng{authornamehash}{78a708cc184c28c9efa04597c2ee91a0}
+      \strng{authorfullhash}{78a708cc184c28c9efa04597c2ee91a0}
+      \strng{editorbibnamehash}{78a708cc184c28c9efa04597c2ee91a0}
+      \strng{editornamehash}{78a708cc184c28c9efa04597c2ee91a0}
+      \strng{editorfullhash}{78a708cc184c28c9efa04597c2ee91a0}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{9}
+      \field{series}{Gur Monographs}
+      \field{title}{Noun class systems in {G}ur languages: {V}ol. {I} {S}outhwestern {G}ur Languages (without {G}urunsi)}
+      \field{year}{2007}
+    \endentry
+    \entry{Nakuma1999}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2ef26891a5e6e0a0ccf0ea41c03ffd21}{%
+           family={Nakuma},
+           familyi={N\bibinitperiod},
+           given={Constancio},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {L’Harmattan}%
+      }
+      \strng{namehash}{2ef26891a5e6e0a0ccf0ea41c03ffd21}
+      \strng{fullhash}{2ef26891a5e6e0a0ccf0ea41c03ffd21}
+      \strng{bibnamehash}{2ef26891a5e6e0a0ccf0ea41c03ffd21}
+      \strng{authorbibnamehash}{2ef26891a5e6e0a0ccf0ea41c03ffd21}
+      \strng{authornamehash}{2ef26891a5e6e0a0ccf0ea41c03ffd21}
+      \strng{authorfullhash}{2ef26891a5e6e0a0ccf0ea41c03ffd21}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Phonie et graphie tonale du dagaare (langue voltaïque)}
+      \field{year}{1999}
+    \endentry
+    \entry{Nakuma2002}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2ef26891a5e6e0a0ccf0ea41c03ffd21}{%
+           family={Nakuma},
+           familyi={N\bibinitperiod},
+           given={Constancio},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ef26891a5e6e0a0ccf0ea41c03ffd21}
+      \strng{fullhash}{2ef26891a5e6e0a0ccf0ea41c03ffd21}
+      \strng{bibnamehash}{2ef26891a5e6e0a0ccf0ea41c03ffd21}
+      \strng{authorbibnamehash}{2ef26891a5e6e0a0ccf0ea41c03ffd21}
+      \strng{authornamehash}{2ef26891a5e6e0a0ccf0ea41c03ffd21}
+      \strng{authorfullhash}{2ef26891a5e6e0a0ccf0ea41c03ffd21}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Dagaare Studies}
+      \field{title}{Guide to {D}agaare orthography}
+      \field{volume}{2}
+      \field{year}{2002}
+      \field{pages}{19\bibrangedash 57}
+      \range{pages}{39}
+    \endentry
+    \entry{Rialland1985}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0693f300b106d088e8cb88750835738e}{%
+           family={Rialland},
+           familyi={R\bibinitperiod},
+           given={Annie},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0693f300b106d088e8cb88750835738e}
+      \strng{fullhash}{0693f300b106d088e8cb88750835738e}
+      \strng{bibnamehash}{0693f300b106d088e8cb88750835738e}
+      \strng{authorbibnamehash}{0693f300b106d088e8cb88750835738e}
+      \strng{authornamehash}{0693f300b106d088e8cb88750835738e}
+      \strng{authorfullhash}{0693f300b106d088e8cb88750835738e}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in African Linguistics}
+      \field{title}{Le fini/l'infini ou l'affirmation/l'interrogation en {M}oba (langue voltaïque parlée au nord-Togo)}
+      \field{volume}{Suppl. 9}
+      \field{year}{1985}
+      \field{pages}{258\bibrangedash 261}
+      \range{pages}{4}
+    \endentry
+    \entry{Trask1993}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7a52544b263dbb78b231dc0b7ed3ca94}{%
+           family={Trask},
+           familyi={T\bibinitperiod},
+           given={Robert\bibnamedelima Lawrence},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{7a52544b263dbb78b231dc0b7ed3ca94}
+      \strng{fullhash}{7a52544b263dbb78b231dc0b7ed3ca94}
+      \strng{bibnamehash}{7a52544b263dbb78b231dc0b7ed3ca94}
+      \strng{authorbibnamehash}{7a52544b263dbb78b231dc0b7ed3ca94}
+      \strng{authornamehash}{7a52544b263dbb78b231dc0b7ed3ca94}
+      \strng{authorfullhash}{7a52544b263dbb78b231dc0b7ed3ca94}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A dictionary of grammatical terms in linguistics}
+      \field{year}{1993}
+    \endentry
+    \entry{Zakpaa1978}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4514034fc64301caa63a6957e6cda88a}{%
+           family={Zakpaa},
+           familyi={Z\bibinitperiod},
+           given={B.\bibnamedelimi B.},
+           giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Accra, Ghana}%
+      }
+      \list{publisher}{1}{%
+        {Bureau of Ghana Languages}%
+      }
+      \strng{namehash}{4514034fc64301caa63a6957e6cda88a}
+      \strng{fullhash}{4514034fc64301caa63a6957e6cda88a}
+      \strng{bibnamehash}{4514034fc64301caa63a6957e6cda88a}
+      \strng{authorbibnamehash}{4514034fc64301caa63a6957e6cda88a}
+      \strng{authornamehash}{4514034fc64301caa63a6957e6cda88a}
+      \strng{authorfullhash}{4514034fc64301caa63a6957e6cda88a}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Te koɔbo yɛlɛ}
+      \field{year}{1978}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{1}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Bodomo1997}{book}{}
+      \name{author}{1}{}{%
+        {{hash=96b30188f6bb64f31956819252680132}{%
+           family={Bodomo},
+           familyi={B\bibinitperiod},
+           given={Adams},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stanford}%
+      }
+      \list{publisher}{1}{%
+        {CSLI}%
+      }
+      \strng{namehash}{96b30188f6bb64f31956819252680132}
+      \strng{fullhash}{96b30188f6bb64f31956819252680132}
+      \strng{bibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorbibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authornamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorfullhash}{96b30188f6bb64f31956819252680132}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Structure of {D}agaare}
+      \field{year}{1997}
+    \endentry
+    \entry{Bodomo2000}{book}{}
+      \name{author}{1}{}{%
+        {{hash=96b30188f6bb64f31956819252680132}{%
+           family={Bodomo},
+           familyi={B\bibinitperiod},
+           given={Adams},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {München, Germany}%
+      }
+      \list{publisher}{1}{%
+        {Lincom Europa}%
+      }
+      \strng{namehash}{96b30188f6bb64f31956819252680132}
+      \strng{fullhash}{96b30188f6bb64f31956819252680132}
+      \strng{bibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorbibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authornamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorfullhash}{96b30188f6bb64f31956819252680132}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Languages of the World Materials No.~165}
+      \field{title}{Dagaare}
+      \field{year}{2000}
+    \endentry
+    \entry{Bodomo2004cantonese}{book}{}
+      \name{author}{1}{}{%
+        {{hash=96b30188f6bb64f31956819252680132}{%
+           family={Bodomo},
+           familyi={B\bibinitperiod},
+           given={Adams},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cologne, Germany}%
+      }
+      \list{publisher}{1}{%
+        {Rudiger Köppe Verlag}%
+      }
+      \strng{namehash}{96b30188f6bb64f31956819252680132}
+      \strng{fullhash}{96b30188f6bb64f31956819252680132}
+      \strng{bibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorbibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authornamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorfullhash}{96b30188f6bb64f31956819252680132}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A {D}agaare-{C}antonese-{E}nglish Lexicon for Lexicographical Field Research Training}
+      \field{year}{2004}
+    \endentry
+    \entry{Bodomo2004complex}{article}{}
+      \name{author}{1}{}{%
+        {{hash=96b30188f6bb64f31956819252680132}{%
+           family={Bodomo},
+           familyi={B\bibinitperiod},
+           given={Adams},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{96b30188f6bb64f31956819252680132}
+      \strng{fullhash}{96b30188f6bb64f31956819252680132}
+      \strng{bibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorbibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authornamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorfullhash}{96b30188f6bb64f31956819252680132}
+      \field{extraname}{4}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studia linguistica}
+      \field{number}{1}
+      \field{title}{The syntax of nominalized complex verbal predicates in {D}agaare}
+      \field{volume}{58}
+      \field{year}{2004}
+      \field{pages}{1\bibrangedash 22}
+      \range{pages}{22}
+    \endentry
+    \entry{DagaareLanguageCommission1982}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e4eaa4d24de34ae5a707c82362b21bf2}{%
+           family={{Dagaare Language Committee}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wa, Ghana}%
+      }
+      \list{publisher}{1}{%
+        {Catholic Press}%
+      }
+      \strng{namehash}{e4eaa4d24de34ae5a707c82362b21bf2}
+      \strng{fullhash}{e4eaa4d24de34ae5a707c82362b21bf2}
+      \strng{bibnamehash}{e4eaa4d24de34ae5a707c82362b21bf2}
+      \strng{authorbibnamehash}{e4eaa4d24de34ae5a707c82362b21bf2}
+      \strng{authornamehash}{e4eaa4d24de34ae5a707c82362b21bf2}
+      \strng{authorfullhash}{e4eaa4d24de34ae5a707c82362b21bf2}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Guide to {D}agaare Spelling}
+      \field{year}{1982}
+    \endentry
+    \entry{Durand1953}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1a5929471f3a2936502e876baadae368}{%
+           family={Durand},
+           familyi={D\bibinitperiod},
+           given={Rev.\bibnamedelimi J.B.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Catholic Mission Duplicator}%
+      }
+      \strng{namehash}{1a5929471f3a2936502e876baadae368}
+      \strng{fullhash}{1a5929471f3a2936502e876baadae368}
+      \strng{bibnamehash}{1a5929471f3a2936502e876baadae368}
+      \strng{authorbibnamehash}{1a5929471f3a2936502e876baadae368}
+      \strng{authornamehash}{1a5929471f3a2936502e876baadae368}
+      \strng{authorfullhash}{1a5929471f3a2936502e876baadae368}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Dagaare-{E}nglish Dictionary}
+      \field{year}{1953}
+    \endentry
+    \entry{Hall1977}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=a82e6c9ddd245bd80c0473c8612211eb}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5d3f62b9df82babf976e5bafd03af4f2}{%
+           family={Dakubu},
+           familyi={D\bibinitperiod},
+           given={M.\bibnamedelimi K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The West African Language Society}%
+      }
+      \strng{namehash}{a82e6c9ddd245bd80c0473c8612211eb}
+      \strng{fullhash}{a82e6c9ddd245bd80c0473c8612211eb}
+      \strng{bibnamehash}{a82e6c9ddd245bd80c0473c8612211eb}
+      \strng{authorbibnamehash}{a82e6c9ddd245bd80c0473c8612211eb}
+      \strng{authornamehash}{a82e6c9ddd245bd80c0473c8612211eb}
+      \strng{authorfullhash}{a82e6c9ddd245bd80c0473c8612211eb}
+      \strng{editorbibnamehash}{5d3f62b9df82babf976e5bafd03af4f2}
+      \strng{editornamehash}{5d3f62b9df82babf976e5bafd03af4f2}
+      \strng{editorfullhash}{5d3f62b9df82babf976e5bafd03af4f2}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{West {A}frican Language Data Sheets}
+      \field{title}{Dagaare}
+      \field{volume}{1}
+      \field{year}{1977}
+    \endentry
+    \entry{Kennedy1966}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a3a030336ba0a48e06c934f6c44a5988}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {University of Ghana, Accra}%
+      }
+      \list{publisher}{1}{%
+        {Institute of African Studies}%
+      }
+      \strng{namehash}{a3a030336ba0a48e06c934f6c44a5988}
+      \strng{fullhash}{a3a030336ba0a48e06c934f6c44a5988}
+      \strng{bibnamehash}{a3a030336ba0a48e06c934f6c44a5988}
+      \strng{authorbibnamehash}{a3a030336ba0a48e06c934f6c44a5988}
+      \strng{authornamehash}{a3a030336ba0a48e06c934f6c44a5988}
+      \strng{authorfullhash}{a3a030336ba0a48e06c934f6c44a5988}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Collected Language Notes 6}
+      \field{title}{Collected Field Reports on the Phonology of {D}agaari}
+      \field{year}{1966}
+    \endentry
+    \entry{Dakubu2005}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b82549f45e5c76f12d71ac1a6e1481e3}{%
+           family={{Kropp Dakubu}},
+           familyi={K\bibinitperiod},
+           given={Mary\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Legon, Ghana}%
+      }
+      \list{publisher}{1}{%
+        {Institute of Language Studies}%
+      }
+      \strng{namehash}{b82549f45e5c76f12d71ac1a6e1481e3}
+      \strng{fullhash}{b82549f45e5c76f12d71ac1a6e1481e3}
+      \strng{bibnamehash}{b82549f45e5c76f12d71ac1a6e1481e3}
+      \strng{authorbibnamehash}{b82549f45e5c76f12d71ac1a6e1481e3}
+      \strng{authornamehash}{b82549f45e5c76f12d71ac1a6e1481e3}
+      \strng{authorfullhash}{b82549f45e5c76f12d71ac1a6e1481e3}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Collected Language Notes, Vol.\ 26}
+      \field{title}{Collected Language Notes on {D}agaare Grammar}
+      \field{year}{2005}
+    \endentry
+    \entry{Ethnologue}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=a1364c293dd9115aa707a9600c201001}{%
+           family={Simons},
+           familyi={S\bibinitperiod},
+           given={Gary\bibnamedelima F.},
+           giveni={G\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=5e8e404644223e9415ccddebd395284d}{%
+           family={Fennig},
+           familyi={F\bibinitperiod},
+           given={Charles\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dallas, Texas}%
+      }
+      \list{publisher}{1}{%
+        {SIL International}%
+      }
+      \strng{namehash}{efd4b2a3fb3d6a2da8a05f48c7b47c1d}
+      \strng{fullhash}{efd4b2a3fb3d6a2da8a05f48c7b47c1d}
+      \strng{bibnamehash}{efd4b2a3fb3d6a2da8a05f48c7b47c1d}
+      \strng{editorbibnamehash}{efd4b2a3fb3d6a2da8a05f48c7b47c1d}
+      \strng{editornamehash}{efd4b2a3fb3d6a2da8a05f48c7b47c1d}
+      \strng{editorfullhash}{efd4b2a3fb3d6a2da8a05f48c7b47c1d}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{20}
+      \field{note}{Online version:\\ \url{http://www.ethnologue.com}}
+      \field{title}{Ethnologue: {L}anguages of the World}
+      \field{year}{2017}
+    \endentry
+    \entry{Wilson1962}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1d237f9bfd4e64174b101fdecbeeec77}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={William\bibnamedelima A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {University of Ghana, Accra}%
+      }
+      \list{publisher}{1}{%
+        {Institute of African Studies}%
+      }
+      \strng{namehash}{1d237f9bfd4e64174b101fdecbeeec77}
+      \strng{fullhash}{1d237f9bfd4e64174b101fdecbeeec77}
+      \strng{bibnamehash}{1d237f9bfd4e64174b101fdecbeeec77}
+      \strng{authorbibnamehash}{1d237f9bfd4e64174b101fdecbeeec77}
+      \strng{authornamehash}{1d237f9bfd4e64174b101fdecbeeec77}
+      \strng{authorfullhash}{1d237f9bfd4e64174b101fdecbeeec77}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Vowel System of {D}agaari and {L}obiri}
+      \field{year}{1962}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{2}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{EversonGrimm2017}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=27c5ea447799518964f1614b5f44909a}{%
+           family={Everson},
+           familyi={E\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1c9a05c40f20231d3df2fa5fbf215935}{%
+           family={Grimm},
+           familyi={G\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{379e9e24c0defb40fdcf9bafd162a740}
+      \strng{fullhash}{379e9e24c0defb40fdcf9bafd162a740}
+      \strng{bibnamehash}{379e9e24c0defb40fdcf9bafd162a740}
+      \strng{authorbibnamehash}{379e9e24c0defb40fdcf9bafd162a740}
+      \strng{authornamehash}{379e9e24c0defb40fdcf9bafd162a740}
+      \strng{authorfullhash}{379e9e24c0defb40fdcf9bafd162a740}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Poster presented at 5th International Conference on Language Documentation and Conservation (ICLDC), March 2017, University of Hawaii, Honolulu, HI.}
+      \field{title}{{From Toolbox database to \LaTeX{} dictionary}}
+      \field{year}{2017}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{3}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Bodomo2000}{book}{}
+      \name{author}{1}{}{%
+        {{hash=96b30188f6bb64f31956819252680132}{%
+           family={Bodomo},
+           familyi={B\bibinitperiod},
+           given={Adams},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {München, Germany}%
+      }
+      \list{publisher}{1}{%
+        {Lincom Europa}%
+      }
+      \strng{namehash}{96b30188f6bb64f31956819252680132}
+      \strng{fullhash}{96b30188f6bb64f31956819252680132}
+      \strng{bibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorbibnamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authornamehash}{96b30188f6bb64f31956819252680132}
+      \strng{authorfullhash}{96b30188f6bb64f31956819252680132}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Languages of the World Materials No.~165}
+      \field{title}{Dagaare}
+      \field{year}{2000}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

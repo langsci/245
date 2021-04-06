@@ -1,0 +1,196 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{1}\relax 
+\contentsline {chapter}{\nonumberline Preface}{iii}{chapter*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Acknowledgments}{vii}{chapter*.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Authors' contributions}{ix}{chapter*.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Dictionary orthography and corresponding IPA symbols}{xi}{chapter*.15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline List of abbreviations}{xiii}{chapter*.16}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{Grammatical sketch of Dagaare}{1}{section*.17}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}The Dagaare language and Dagaare studies}{3}{section.0.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Phonology}{4}{section.0.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Orthography and sound system of Dagaare}{4}{subsection.0.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Consonants}{4}{subsection.0.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Vowels}{6}{subsection.0.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4}Tone}{7}{subsection.0.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5}Phonological processes}{8}{subsection.0.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.5.1}Vowel harmony}{8}{subsubsection.0.2.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.5.2}Vowel assimilation}{8}{subsubsection.0.2.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.5.3}Final vowel elision/apocope}{9}{subsubsection.0.2.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Morphology}{9}{section.0.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Nominal morphology}{10}{subsection.0.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.1}The noun}{10}{subsubsection.0.3.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.1.1}Number/class}{10}{paragraph.0.3.1.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.1.2}Definiteness/Referentiality}{11}{paragraph.0.3.1.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.1.3}Case}{12}{paragraph.0.3.1.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.1.4}Possession}{12}{paragraph.0.3.1.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.2}Pronouns}{12}{subsubsection.0.3.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.2.1}Personal pronouns}{12}{table.caption.25}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.2.2}Demonstrative pronouns}{13}{paragraph.0.3.1.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.2.3}Reflexives}{13}{paragraph.0.3.1.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.2.4}Reciprocal pronouns}{14}{paragraph.0.3.1.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.2.5}Relative pronoun}{14}{paragraph.0.3.1.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.2.6}Possessive pronouns}{14}{paragraph.0.3.1.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.2.7}Interrogative pronouns}{15}{paragraph.0.3.1.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.2.8}Indefinite pronouns}{16}{paragraph.0.3.1.2.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.3}Honorific system}{16}{subsubsection.0.3.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.4}Numerals}{16}{subsubsection.0.3.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.5}Adjectives}{17}{subsubsection.0.3.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Verbal morphology}{18}{subsection.0.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.1}The verb}{18}{subsubsection.0.3.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.2.1.1}Main verb}{18}{paragraph.0.3.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.2.1.2}Verb root}{20}{paragraph.0.3.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.2.1.3}Inflectional affixes}{21}{paragraph.0.3.2.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.2.1.4}Derivational affixes and changes}{21}{paragraph.0.3.2.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.2.1.5}Functional systems of the verb}{21}{paragraph.0.3.2.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.2}Adverbs}{23}{subsubsection.0.3.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3}Pluractional verbal constructions}{24}{subsubsection.0.3.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Other word classes and morphological processes}{25}{subsection.0.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.1}Ideophones}{25}{subsubsection.0.3.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.2}Reduplication}{26}{subsubsection.0.3.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.3}Compounding}{27}{subsubsection.0.3.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Syntax}{28}{section.0.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Sentence types}{28}{subsection.0.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}The simple sentence}{28}{subsection.0.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.1}Imperative}{29}{subsubsection.0.4.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.2}Negation}{30}{subsubsection.0.4.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.3}Comparative constructions}{30}{subsubsection.0.4.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Complex sentences}{31}{subsection.0.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1}Coordination and Subordination}{31}{subsubsection.0.4.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2}Relativization}{31}{subsubsection.0.4.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.3}Question formation}{32}{subsubsection.0.4.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.4}Small clause constructions}{33}{subsubsection.0.4.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.5}Verb serialization}{33}{subsubsection.0.4.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.6}Serial verb nominalization}{34}{subsubsection.0.4.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}Discourse phenomena}{34}{subsection.0.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.1}Topic}{36}{subsubsection.0.4.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.2}Focus}{37}{subsubsection.0.4.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.3}Focus and Negation}{38}{subsubsection.0.4.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline References}{41}{chapter*.29}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{Dagaare dictionary}{45}{section*.33}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{a}{45}{section*.34}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{b}{51}{section*.35}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{d}{90}{section*.36}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{e}{113}{section*.37}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{ɛ}{115}{section*.38}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{f}{116}{section*.39}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{g}{125}{section*.40}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{gb}{134}{section*.41}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{gy}{142}{section*.42}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{h}{147}{section*.43}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{i}{148}{section*.44}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{k}{149}{section*.45}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{kp}{171}{section*.46}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{l}{180}{section*.47}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{m}{192}{section*.48}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{n}{206}{section*.49}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{ny}{224}{section*.50}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{ŋ}{232}{section*.51}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{ŋm}{232}{section*.52}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{o}{237}{section*.53}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{ɔ}{238}{section*.54}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{p}{239}{section*.55}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{s}{259}{section*.56}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{t}{278}{section*.57}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{u}{295}{section*.58}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{v}{296}{section*.59}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{w}{304}{section*.60}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{y}{312}{section*.61}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{z}{323}{section*.62}%
+\defcounter {refsection}{0}\relax 
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
