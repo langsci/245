@@ -173,7 +173,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{ŋ}{242}{section*.52}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{ŋm}{242}{section*.53}%
+\contentsline {section}{ŋm}{243}{section*.53}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{o}{248}{section*.54}%
 \defcounter {refsection}{0}\relax 
